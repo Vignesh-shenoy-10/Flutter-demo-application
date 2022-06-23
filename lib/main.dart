@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           title: const Text('Welcome to Flutter'),
         ),
         body: const Center(
-          child: Text('Hello Word i am coming to learn i am learning flutter'),
+          child: Text('Hello kord i am coming to learn i am learning flutter'),
         ),
       ),
     );
